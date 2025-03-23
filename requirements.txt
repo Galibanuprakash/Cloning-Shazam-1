@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+nltk
+spacy
+transformers
+torch
+sentence-transformers
+faiss-cpu
+sqlite3
+sqlalchemy
+tqdm
+matplotlib
